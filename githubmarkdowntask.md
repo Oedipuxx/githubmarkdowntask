@@ -1,13 +1,3 @@
----
-title: "Ojeabulu Jude Web Excercise"
-output: 
-  html_document:
-  fig_caption: yes
-  theme: cerulean
-  toc: yes
-  toc depth: 3
-  toc float: yes
----
 
 ## Ojeabulu Jude Web Excercise
 
